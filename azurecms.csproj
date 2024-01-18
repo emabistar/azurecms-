@@ -27,7 +27,7 @@
     </Content>
   </ItemGroup>
 <ItemGroup>
-    <Content Include="seed\*.*>
+    <Content Include="seed\*.*">
      
       <CopyToPublishDirectory>Always</CopyToPublishDirectory>
     </Content>
